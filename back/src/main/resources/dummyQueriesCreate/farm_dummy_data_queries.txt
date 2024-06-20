@@ -1,0 +1,720 @@
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에이드리언 농장', '에이드리언', '0397 Amy Crescent Apt. 550
+Jacktown, HI 35753', 14400, '1998-11-09 00:00:00', '1997 Gutierrez-Bullock Cup Coffee Bean Contest Third Prize
+1980 Stewart LLC Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '155349665823');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('마크 농장', '마크', '79600 Rodriguez Pine
+Port Robertside, NV 04156', 11700, '1988-03-10 00:00:00', '1999 Miranda-Coleman Wins 3rd Place in Most Outstanding Coffee Bean category
+2013 Nguyen Group Cup Coffee Bean Contest Grand Prize
+1992 Warner, Smith and Hickman Cup Coffee Bean Contest Grand Prize', '예멘 애플 마티니', 2, '111261213313');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('코트니 농장', '코트니', '9072 Charles Loaf
+Laurieberg, KS 70951', 12600, '1995-08-09 00:00:00', '1979 Lopez-Williams Wins 2nd Place in Most Outstanding Coffee Bean category
+1983 Morales-Hernandez Cup Coffee Bean Contest Special Prize
+1988 Benson-Wright Wins 2nd Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '130816476945');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('베스 농장', '베스', '277 Mary Fort
+Jameshaven, AZ 34437', 8800, '1984-07-12 00:00:00', '2020 Woods Inc Wins 3rd Place in Most Outstanding Coffee Bean category
+1991 Ramirez, Rodriguez and Miller Wins 1st Place in Most Outstanding Coffee Bean category
+1983 Smith, Johnson and Becker Wins 2nd Place in Most Outstanding Coffee Bean category
+1972 Obrien, Sampson and Johnson Cup Coffee Bean Contest First Prize', '예멘 모카 아이리시', 2, '185156736872');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('스테이시 농장', '스테이시', '33744 Scott Lodge
+Travisfurt, UT 51383', 8200, '2011-04-06 00:00:00', '1976 Bowman-Brown Cup Coffee Bean Contest First Prize
+2004 Ramirez, Gross and Fleming Cup Coffee Bean Contest First Prize', '파나마 게이샤', 1, '119998335700');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('앤서니 농장', '앤서니', '4449 Elizabeth Orchard Suite 419
+North Mary, IL 19448', 14200, '2012-09-27 00:00:00', '2006 Bishop, Moore and Taylor Wins 2nd Place in Most Outstanding Coffee Bean category
+2007 Miller, Edwards and Williams Cup Coffee Bean Contest Special Prize
+1983 Cervantes, Young and Klein Cup Coffee Bean Contest First Prize
+2007 Hays PLC Wins 3rd Place in Most Outstanding Coffee Bean category
+2016 Leonard, Howard and Brewer Wins 1st Place in Most Outstanding Coffee Bean category
+1979 Berger-Valdez Wins 2nd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '181902450546');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('브래들리 농장', '브래들리', '3570 Roman Ranch Apt. 440
+West Olivia, AR 70901', 10100, '2021-06-20 00:00:00', '2014 Ward-Nicholson Wins 1st Place in Most Outstanding Coffee Bean category
+2008 White and Sons Wins 2nd Place in Most Outstanding Coffee Bean category
+2019 Hanson, Brown and Brady Cup Coffee Bean Contest First Prize
+1982 Woods, Weber and Burns Wins 2nd Place in Most Outstanding Coffee Bean category
+2020 Jones-Dean Cup Coffee Bean Contest First Prize
+2004 Lowery-Smith Wins 1st Place in Most Outstanding Coffee Bean category
+2005 Le-Simmons Cup Coffee Bean Contest Second Prize', '자메이카 블루마운틴', 1, '160429037211');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('카일 농장', '카일', '5805 Luis Run Suite 609
+West Saraside, FM 64991', 14500, '1981-02-13 00:00:00', '2018 Jones, Williamson and Evans Cup Coffee Bean Contest Grand Prize
+1995 Richardson-May Wins 2nd Place in Most Outstanding Coffee Bean category
+1979 Lindsey, Mooney and Bowman Cup Coffee Bean Contest Second Prize
+2010 Guerra, Tucker and Morgan Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '109027333632');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('그렉 농장', '그렉', '3596 Dunn Coves Suite 099
+Martinview, SD 70658', 10500, '1999-08-03 00:00:00', '1974 Duffy-Poole Wins 2nd Place in Most Outstanding Coffee Bean category
+1972 Smith Ltd Wins 1st Place in Most Outstanding Coffee Bean category
+1980 Thompson LLC Cup Coffee Bean Contest Second Prize
+1970 King, Rhodes and Simpson Wins 2nd Place in Most Outstanding Coffee Bean category
+1972 Fisher LLC Cup Coffee Bean Contest First Prize
+2016 Scott, Newman and Webster Cup Coffee Bean Contest Special Prize
+1989 Phillips LLC Wins 3rd Place in Most Outstanding Coffee Bean category
+1975 Robertson-Kelly Cup Coffee Bean Contest Third Prize', '예멘 모카 아이리시', 1, '100974763485');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('라우리 농장', '라우리', '9929 Debbie Plaza
+New Charles, OH 24978', 4800, '2014-11-11 00:00:00', '1981 Benson Inc Cup Coffee Bean Contest First Prize', '하와이 코나', 2, '132003866897');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('섀넌 농장', '섀넌', '897 Buck Plain Suite 811
+Amandaview, ME 07946', 12200, '1979-05-02 00:00:00', '1983 Holt Ltd Wins 2nd Place in Most Outstanding Coffee Bean category
+1990 Rodriguez-Perez Wins 3rd Place in Most Outstanding Coffee Bean category
+2006 Alexander, Wilkerson and Taylor Cup Coffee Bean Contest Third Prize
+1976 Chang-Stephens Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 2, '188876518395');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('로라 농장', '로라', '25911 Morris Dam Suite 662
+Eddiechester, UT 42294', 9200, '1992-03-03 00:00:00', '1991 Foster-Johnson Cup Coffee Bean Contest Third Prize
+1984 Carlson-Brown Wins 2nd Place in Most Outstanding Coffee Bean category
+1972 Mcbride and Sons Wins 3rd Place in Most Outstanding Coffee Bean category
+2016 Leon, Smith and Solomon Cup Coffee Bean Contest First Prize
+1976 Miller Group Wins 2nd Place in Most Outstanding Coffee Bean category
+2013 Schneider, Acosta and Clayton Cup Coffee Bean Contest Grand Prize', '파나마 게이샤', 1, '177474931039');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('피터 농장', '피터', '6459 Campbell Isle Apt. 970
+Port Jessicafort, AL 08849', 12100, '1992-09-27 00:00:00', '2017 Reynolds, Frank and Cisneros Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '179515970928');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('채드 농장', '채드', '694 Perry Station Suite 853
+Patrickport, VA 02171', 11900, '2006-04-01 00:00:00', '1980 Keith and Sons Wins 3rd Place in Most Outstanding Coffee Bean category
+2008 Roberts and Sons Cup Coffee Bean Contest Special Prize
+1992 Coffey-Miller Cup Coffee Bean Contest Third Prize
+2018 Salazar PLC Cup Coffee Bean Contest Grand Prize
+1971 Solis Inc Wins 3rd Place in Most Outstanding Coffee Bean category
+1999 Green-Robinson Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 2, '147272235389');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('커티스 농장', '커티스', '6839 Barbara Lock Suite 213
+Bradfordberg, MI 27876', 7200, '1985-03-19 00:00:00', '2011 King PLC Wins 1st Place in Most Outstanding Coffee Bean category
+1990 Marquez-Bishop Cup Coffee Bean Contest Grand Prize', '자메이카 블루마운틴', 1, '123025694598');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('캐서린 농장', '캐서린', '137 Hamilton Passage Apt. 604
+Tannerfort, MO 87565', 6200, '2001-01-29 00:00:00', '1973 Morgan, House and Garza Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '159866097750');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('모건 농장', '모건', '23002 James Cliff Apt. 467
+Ashleyhaven, IA 46356', 9800, '2020-05-18 00:00:00', '1978 Mayo Group Cup Coffee Bean Contest Second Prize
+1994 Martinez-Gaines Wins 3rd Place in Most Outstanding Coffee Bean category
+1992 Gutierrez, Harris and Miller Cup Coffee Bean Contest Grand Prize', '예멘 모카 아이리시', 1, '102891063297');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('스티븐 농장', '스티븐', 'Unit 6037 Box 4286
+DPO AP 01025', 6100, '1984-03-29 00:00:00', '1984 Miranda, Potts and Holden Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '195870679773');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('토니 농장', '토니', '5446 Reed Course
+Port Taylorbury, MI 12088', 14900, '2002-10-22 00:00:00', '1988 Lewis-Gay Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '137812910108');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('트래비스 농장', '트래비스', '229 Bond Courts Suite 559
+North Elizabethport, PA 33244', 12700, '2016-09-10 00:00:00', '1984 Hendricks PLC Wins 2nd Place in Most Outstanding Coffee Bean category
+1975 Sanchez PLC Wins 2nd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '100834736764');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('자레드 농장', '자레드', '80199 Johnny River
+Adamsborough, MT 97716', 8200, '1987-10-20 00:00:00', '2019 Hayes-Wood Cup Coffee Bean Contest Third Prize
+1971 Rodriguez, Johnson and Caldwell Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 2, '100339501138');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에밀리 농장', '에밀리', '42991 Padilla Lights Suite 321
+Johnsonfurt, PW 02913', 11500, '2006-04-10 00:00:00', '1977 Lewis, Terry and Lowe Wins 1st Place in Most Outstanding Coffee Bean category
+2022 Willis, Tucker and Martin Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 1, '139306242088');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('신시아 농장', '신시아', '51881 Ryan Views Suite 769
+Danielhaven, ID 44818', 4200, '2017-06-16 00:00:00', '1984 Wise PLC Wins 3rd Place in Most Outstanding Coffee Bean category
+1997 Gonzales-Black Wins 1st Place in Most Outstanding Coffee Bean category
+1987 Garrett-Gray Cup Coffee Bean Contest Third Prize
+1984 Brown, Gallagher and Smith Wins 1st Place in Most Outstanding Coffee Bean category
+2002 Smith-Lawson Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 1, '183346013425');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('라토야 농장', '라토야', '4090 Ortega Skyway
+West Cherylton, NE 73503', 9000, '1981-12-23 00:00:00', '1986 Coleman Inc Cup Coffee Bean Contest Third Prize
+1975 Martinez and Sons Cup Coffee Bean Contest Third Prize
+2021 Alexander Ltd Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '165121690937');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('나이틀린 농장', '나이틀린', '714 Ethan Mountain Apt. 227
+Faithville, AZ 26981', 6700, '1985-12-16 00:00:00', '2017 Hill, Edwards and Martin Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '157716741746');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('보니 농장', '보니', 'USS Noble
+FPO AA 92892', 13900, '2011-07-18 00:00:00', '2021 Leblanc-Scott Cup Coffee Bean Contest Special Prize
+1994 Soto LLC Cup Coffee Bean Contest First Prize
+2007 James Group Wins 1st Place in Most Outstanding Coffee Bean category
+2004 Coleman Inc Cup Coffee Bean Contest Second Prize', '예멘 모카 아이리시', 2, '189813561912');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('매튜 농장', '매튜', '9594 Reyes Passage Apt. 981
+Rebeccachester, AZ 30451', 6300, '2011-01-31 00:00:00', '2012 Hicks-Nguyen Cup Coffee Bean Contest First Prize
+2009 Montes-Foley Cup Coffee Bean Contest Third Prize
+2007 Williams, Fowler and Carroll Cup Coffee Bean Contest Third Prize
+2000 Frost, Strickland and Burke Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 2, '193710099099');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('요셉 농장', '요셉', '2740 Monique Burg Apt. 066
+North Chaseborough, AS 49660', 8100, '2002-03-29 00:00:00', '2003 Parker-Pacheco Wins 2nd Place in Most Outstanding Coffee Bean category
+2011 Scott and Sons Cup Coffee Bean Contest Third Prize', '예멘 모카 아이리시', 1, '135523748510');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제나 농장', '제나', '20451 Mary Brook Apt. 170
+Samuelfurt, AZ 43882', 10100, '2016-01-27 00:00:00', '2011 Hale Group Wins 2nd Place in Most Outstanding Coffee Bean category
+1972 White Group Wins 2nd Place in Most Outstanding Coffee Bean category
+1972 Cruz, Ballard and Sullivan Wins 3rd Place in Most Outstanding Coffee Bean category
+2015 Davenport-Brown Cup Coffee Bean Contest Grand Prize
+2006 Owens, West and Villarreal Cup Coffee Bean Contest First Prize
+1987 Riley-Hughes Wins 1st Place in Most Outstanding Coffee Bean category
+1984 Sullivan, Dyer and Garcia Cup Coffee Bean Contest Grand Prize', '예멘 모카 아이리시', 1, '137925664480');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('태너 농장', '태너', '835 Lisa Island Apt. 554
+Aguirreside, NV 52648', 14700, '1980-11-01 00:00:00', '2007 Collier, Bird and Evans Wins 3rd Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '178026684222');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('로빈 농장', '로빈', '8621 Davis Motorway Apt. 935
+South Jesse, KS 85949', 14800, '1995-01-30 00:00:00', '2014 Watson, Harris and Guerra Cup Coffee Bean Contest Second Prize
+1990 Mccormick, Carrillo and Smith Wins 3rd Place in Most Outstanding Coffee Bean category
+1996 Hanson-Serrano Cup Coffee Bean Contest Third Prize', '하와이 코나', 1, '135903039556');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('나타샤 농장', '나타샤', '9672 Smith Club Suite 900
+Lake Alicia, NJ 28581', 11500, '1990-02-22 00:00:00', '2005 Rivas-Callahan Cup Coffee Bean Contest First Prize
+2022 Barber-Kelley Wins 2nd Place in Most Outstanding Coffee Bean category
+2015 Silva, Mcdonald and Scott Cup Coffee Bean Contest Third Prize
+2005 Lewis-Brown Cup Coffee Bean Contest Second Prize
+1984 Norton, Lamb and Dunlap Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 2, '159522200191');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('자스민 농장', '자스민', '8760 Elizabeth Ways
+New Henryhaven, CT 70444', 7800, '2006-03-28 00:00:00', '1976 Elliott, Weaver and Thompson Cup Coffee Bean Contest First Prize
+1984 Adams, Mendez and Murray Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '141642120605');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('엘리자베스 농장', '엘리자베스', 'PSC 0980, Box 8969
+APO AA 51292', 12100, '1977-06-01 00:00:00', '2007 Hartman, Rogers and Hernandez Cup Coffee Bean Contest Second Prize
+1987 Clark, Young and Nguyen Cup Coffee Bean Contest First Prize
+2006 Mcfarland Inc Cup Coffee Bean Contest First Prize', '자메이카 블루마운틴', 2, '196039090349');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('루이스 농장', '루이스', '344 Mitchell Lakes Suite 617
+Tammyborough, LA 10483', 13800, '1983-11-30 00:00:00', '2020 Kane Ltd Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '147133259973');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('메이븐 농장', '메이븐', 'USNV Robertson
+FPO AA 72554', 11500, '1992-01-25 00:00:00', '1993 Acevedo, Lewis and Hanna Wins 1st Place in Most Outstanding Coffee Bean category
+2020 Gray, Sutton and Page Cup Coffee Bean Contest Special Prize
+2017 Carpenter-Davis Cup Coffee Bean Contest Second Prize', '예멘 애플 마티니', 1, '197581271357');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('숀 농장', '숀', '05337 Mcknight Freeway Apt. 361
+Port Carly, FL 37875', 11800, '2021-05-29 00:00:00', '1987 Young Group Wins 3rd Place in Most Outstanding Coffee Bean category
+1971 Flores Group Wins 1st Place in Most Outstanding Coffee Bean category
+1997 Smith, Thomas and Turner Cup Coffee Bean Contest Second Prize', '예멘 애플 마티니', 1, '193187406624');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('레이먼드 농장', '레이먼드', '87308 Moore Village Suite 548
+New Morganshire, NY 87806', 14200, '1995-01-07 00:00:00', '1991 Wolf, King and Hardy Cup Coffee Bean Contest First Prize
+1972 Martinez PLC Cup Coffee Bean Contest Second Prize
+1973 Lambert, Turner and Smith Wins 3rd Place in Most Outstanding Coffee Bean category
+1974 Rivera-Haley Cup Coffee Bean Contest Third Prize
+2014 Daugherty-Lewis Wins 3rd Place in Most Outstanding Coffee Bean category
+1979 Holland, Green and Jones Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '187971675781');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('이본 농장', '이본', '46459 Courtney Throughway Suite 456
+Michaelborough, CO 47213', 13100, '2019-05-19 00:00:00', '2004 Johnson and Sons Wins 3rd Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '147903620897');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('레이첼 농장', '레이첼', '75638 Soto Fall
+Thompsonside, MN 63159', 13800, '2000-07-29 00:00:00', '1996 Mitchell, Hayes and Lee Cup Coffee Bean Contest Third Prize
+2010 Roberts-Howard Wins 1st Place in Most Outstanding Coffee Bean category
+1984 Haney, Wilson and Stafford Cup Coffee Bean Contest First Prize', '하와이 코나', 2, '199765224494');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('웨인 농장', '웨인', '62437 Schwartz Turnpike Suite 612
+New Bruceton, KY 79986', 8500, '2015-12-25 00:00:00', '1976 Simmons, Simmons and Foster Cup Coffee Bean Contest Grand Prize
+1977 Stevens LLC Cup Coffee Bean Contest Special Prize
+2005 Salinas, Taylor and Schaefer Cup Coffee Bean Contest Third Prize
+2003 Johnson-Ramos Cup Coffee Bean Contest First Prize
+1975 Hill LLC Wins 1st Place in Most Outstanding Coffee Bean category
+1984 Black PLC Wins 2nd Place in Most Outstanding Coffee Bean category
+1972 Torres, Martin and Guerra Wins 3rd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 2, '156518221463');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('크리스토퍼 농장', '크리스토퍼', '749 Adams Park
+East Angelland, MN 53484', 6600, '1980-05-11 00:00:00', '1996 Gonzalez, Osborn and Tucker Wins 1st Place in Most Outstanding Coffee Bean category
+1984 Barrett, Bradley and Lawrence Cup Coffee Bean Contest Special Prize
+2020 Navarro-Deleon Wins 1st Place in Most Outstanding Coffee Bean category
+2004 Perkins, Perez and Shepherd Wins 3rd Place in Most Outstanding Coffee Bean category
+2020 Crawford-Mcbride Cup Coffee Bean Contest Grand Prize
+1990 Yu, Cunningham and Carr Wins 3rd Place in Most Outstanding Coffee Bean category
+1997 Garcia-Horne Cup Coffee Bean Contest Second Prize', '자메이카 블루마운틴', 1, '136739042392');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('다이안 농장', '다이안', '44886 Sullivan Spur Suite 044
+Scottland, KY 19351', 6000, '2004-12-16 00:00:00', '1998 Black, Reeves and Hicks Wins 1st Place in Most Outstanding Coffee Bean category
+1999 Adkins-Lewis Cup Coffee Bean Contest Grand Prize
+1973 White Ltd Wins 1st Place in Most Outstanding Coffee Bean category
+1971 Waller-Bell Cup Coffee Bean Contest Third Prize
+1983 Olson, Lynch and Mendoza Cup Coffee Bean Contest Special Prize
+1972 Peters, Park and Wilson Cup Coffee Bean Contest Special Prize
+1970 Nelson-Jackson Wins 1st Place in Most Outstanding Coffee Bean category
+2002 Case-Jenkins Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '169314514197');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('토마스 농장', '토마스', '875 Christina Crescent
+Angelamouth, IA 21552', 11200, '2005-05-29 00:00:00', '1985 Wall Inc Wins 2nd Place in Most Outstanding Coffee Bean category
+1974 Ortiz Group Wins 1st Place in Most Outstanding Coffee Bean category
+1997 Carter Ltd Cup Coffee Bean Contest Second Prize
+2008 Rosario-Mitchell Cup Coffee Bean Contest First Prize
+2010 Henry Group Cup Coffee Bean Contest Special Prize', '예멘 모카 아이리시', 1, '112829055066');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('알렉산더 농장', '알렉산더', '061 Richardson Camp
+Harrystad, WV 74026', 11400, '2012-10-16 00:00:00', '1988 Scott-Gay Wins 2nd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 2, '113915567499');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('캐머론 농장', '캐머론', '0077 Alexandria Drives
+Port Christianshire, UT 02297', 13600, '1989-08-23 00:00:00', '1992 Reed, Burnett and Watson Wins 1st Place in Most Outstanding Coffee Bean category
+1999 Harper PLC Cup Coffee Bean Contest Special Prize
+1995 Johnson, Miller and Cameron Wins 1st Place in Most Outstanding Coffee Bean category
+1971 Graham-Hayes Cup Coffee Bean Contest First Prize
+1996 Duncan Group Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '116937419289');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('리처드 농장', '리처드', 'Unit 9758 Box 3842
+DPO AA 75922', 7900, '1985-01-28 00:00:00', '1993 Holmes-Thomas Cup Coffee Bean Contest First Prize
+1993 Ayala, Adams and French Cup Coffee Bean Contest Third Prize
+1970 Smith Inc Cup Coffee Bean Contest Third Prize', '하와이 코나', 1, '168696532367');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('샤론 농장', '샤론', '377 Michelle Views
+Port Josephfort, SD 51021', 4500, '1981-12-29 00:00:00', '2010 Molina-Carter Wins 1st Place in Most Outstanding Coffee Bean category
+2013 Smith Inc Cup Coffee Bean Contest First Prize
+2013 Taylor, Frost and Valencia Wins 3rd Place in Most Outstanding Coffee Bean category
+2005 Nolan, King and Robinson Cup Coffee Bean Contest Special Prize', '하와이 코나', 1, '146942953466');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('데보라 농장', '데보라', '9321 Susan Dale Apt. 429
+New Teresatown, NM 58690', 7200, '2009-10-01 00:00:00', '2011 Wagner, Smith and Williams Wins 3rd Place in Most Outstanding Coffee Bean category
+2020 Morris PLC Wins 2nd Place in Most Outstanding Coffee Bean category
+1985 Kerr-Torres Cup Coffee Bean Contest First Prize
+2020 Estes-Bartlett Wins 3rd Place in Most Outstanding Coffee Bean category
+1989 Butler-Hunt Cup Coffee Bean Contest First Prize', '예멘 모카 아이리시', 1, '119483496390');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('로건 농장', '로건', '9287 Steven Springs Apt. 897
+South Anthonyville, CO 49495', 9500, '1987-11-13 00:00:00', '1977 Fuller, Zimmerman and Mason Wins 3rd Place in Most Outstanding Coffee Bean category
+1984 Knight and Sons Wins 2nd Place in Most Outstanding Coffee Bean category
+2002 Hammond, Martinez and Brown Cup Coffee Bean Contest First Prize
+2016 Floyd and Sons Wins 3rd Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '137124839178');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('아담 농장', '아담', '816 Miller Mills
+Juliemouth, NH 92390', 9100, '1992-10-29 00:00:00', '1993 Myers, Larson and Ford Wins 1st Place in Most Outstanding Coffee Bean category
+2013 Coleman PLC Wins 2nd Place in Most Outstanding Coffee Bean category
+1981 White Ltd Cup Coffee Bean Contest Third Prize', '예멘 모카 아이리시', 1, '199559219385');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('브라이언 농장', '브라이언', '523 Harris Court Apt. 917
+Sellersville, VT 99530', 7700, '2013-12-07 00:00:00', '1973 Benson LLC Wins 3rd Place in Most Outstanding Coffee Bean category
+2016 Cisneros LLC Wins 3rd Place in Most Outstanding Coffee Bean category
+2003 Shaffer, Ross and Love Cup Coffee Bean Contest Second Prize
+1994 Cameron, Parks and Brown Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '188399314980');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('스코트 농장', '스코트', '005 Diana View Suite 781
+Rachelbury, OK 22823', 10900, '1994-01-31 00:00:00', '2012 Giles Ltd Cup Coffee Bean Contest Second Prize
+1990 Wang LLC Cup Coffee Bean Contest First Prize', '파나마 게이샤', 1, '111815679562');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('코니 농장', '코니', 'USNS Rush
+FPO AA 40026', 8500, '1996-12-05 00:00:00', '2000 Johnson, Sharp and Green Cup Coffee Bean Contest Third Prize
+1987 Burns, Hughes and Mitchell Cup Coffee Bean Contest First Prize
+2016 Cole, Marshall and Patel Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 2, '120648356296');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('티모시 농장', '티모시', '9292 Johnson River
+Cohenland, MD 27798', 10800, '2001-09-14 00:00:00', '1994 Brady LLC Cup Coffee Bean Contest Grand Prize', '파나마 게이샤', 1, '189429112134');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제이클린 농장', '제이클린', '766 Johnson Oval Apt. 142
+Lake Jimmy, MO 82604', 12300, '1977-10-12 00:00:00', '1997 Nichols-Blake Wins 1st Place in Most Outstanding Coffee Bean category
+1976 Moore, Nicholson and Campbell Cup Coffee Bean Contest First Prize
+1973 Richardson, Kim and Nichols Cup Coffee Bean Contest Special Prize
+1996 Griffin Group Wins 2nd Place in Most Outstanding Coffee Bean category
+2000 Kelley, Gordon and Drake Wins 3rd Place in Most Outstanding Coffee Bean category
+2000 Boyd, Fisher and Wood Cup Coffee Bean Contest Special Prize
+2016 Cardenas Inc Cup Coffee Bean Contest Second Prize', '예멘 애플 마티니', 1, '110231638990');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('맬러리 농장', '맬러리', '1241 William Hollow Suite 107
+South Ryantown, KY 86131', 15000, '2015-08-09 00:00:00', '1974 Bailey, Copeland and Rodriguez Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '170454276428');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('아만다 농장', '아만다', '7679 Nicholas Lane
+Katherineport, FL 15309', 9300, '2013-10-07 00:00:00', '1995 Stone-Graves Cup Coffee Bean Contest Second Prize', '자메이카 블루마운틴', 1, '125239513162');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('메건 농장', '메건', '2423 Beth Road
+Jordanton, WI 21835', 8400, '2015-06-22 00:00:00', '1995 Yang Ltd Wins 2nd Place in Most Outstanding Coffee Bean category
+1988 Turner, Nguyen and Harris Cup Coffee Bean Contest Second Prize', '예멘 애플 마티니', 2, '136470837333');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('쉘비 농장', '쉘비', '486 Young Extension
+South Monica, AS 28153', 14100, '1978-08-25 00:00:00', '1970 Santiago-Stanley Cup Coffee Bean Contest Special Prize
+2012 Page, Hogan and Edwards Cup Coffee Bean Contest First Prize
+1999 Herrera Ltd Wins 1st Place in Most Outstanding Coffee Bean category
+2005 Williams-Krueger Wins 3rd Place in Most Outstanding Coffee Bean category
+2008 Bell, Barnes and Williams Wins 1st Place in Most Outstanding Coffee Bean category
+2004 Stout-Barber Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 3, '192293929109');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('켈리 농장', '켈리', '2385 Gonzalez Island Apt. 068
+New Elizabeth, TX 03015', 14200, '2015-01-01 00:00:00', '2021 Collins Inc Wins 3rd Place in Most Outstanding Coffee Bean category
+1995 Kirby, Anderson and Dalton Cup Coffee Bean Contest Third Prize
+2021 Long Ltd Wins 3rd Place in Most Outstanding Coffee Bean category
+1990 Gordon-Hernandez Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 3, '163181231987');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제시카 농장', '제시카', '804 Williams Pines
+North Stephen, MH 83896', 7400, '2022-01-27 00:00:00', '1988 Hale-Holmes Cup Coffee Bean Contest Grand Prize
+2016 Turner-Lopez Wins 2nd Place in Most Outstanding Coffee Bean category
+1979 Bowen, Mccarthy and Wilson Cup Coffee Bean Contest First Prize
+1978 Bowman, Medina and Huang Cup Coffee Bean Contest First Prize', '예멘 애플 마티니', 2, '120187588264');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('존 농장', '존', '52549 Hernandez Lakes
+Port Jennifer, TN 94359', 6900, '2021-05-19 00:00:00', '2014 Delgado-Castro Cup Coffee Bean Contest Special Prize
+1992 Lamb, Velasquez and Hayes Wins 2nd Place in Most Outstanding Coffee Bean category
+1984 Cline, Tyler and Ellis Wins 1st Place in Most Outstanding Coffee Bean category
+1985 Chandler, Hickman and Garcia Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 1, '148542408024');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('조나단 농장', '조나단', '93920 Andrew Point Suite 361
+Josephstad, UT 53955', 5100, '1999-05-30 00:00:00', '2014 Thomas LLC Cup Coffee Bean Contest Special Prize
+2009 Rodriguez, Munoz and Hendricks Cup Coffee Bean Contest Third Prize
+1978 Mccormick-Boone Cup Coffee Bean Contest Grand Prize
+1975 Welch Inc Cup Coffee Bean Contest First Prize
+1994 Johnson, Hahn and Wilcox Wins 3rd Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '185467277599');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('러셀 농장', '러셀', '771 Hall Locks
+East George, OK 42905', 13600, '1990-06-03 00:00:00', '2021 Turner Group Cup Coffee Bean Contest Third Prize
+1997 Garcia, Alvarado and Guerrero Cup Coffee Bean Contest Second Prize
+1987 Tucker, Jones and Ray Cup Coffee Bean Contest Special Prize
+2016 Johnson Group Cup Coffee Bean Contest Third Prize
+2020 Butler, Smith and Buck Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 2, '150518730454');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('저스틴 농장', '저스틴', '8382 Jones Inlet Suite 196
+Port Randy, MN 70444', 8800, '2008-08-04 00:00:00', '1972 Thompson-King Wins 1st Place in Most Outstanding Coffee Bean category
+1971 Hinton LLC Wins 3rd Place in Most Outstanding Coffee Bean category
+1975 Daugherty-Collins Cup Coffee Bean Contest Grand Prize
+1971 Vasquez PLC Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 1, '121557661525');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('던 농장', '던', '2176 Angela Inlet Apt. 208
+South Katherineberg, PA 90696', 8500, '1986-01-20 00:00:00', '1991 Morgan Inc Wins 3rd Place in Most Outstanding Coffee Bean category
+1972 Gomez-Castillo Cup Coffee Bean Contest Special Prize
+2019 Patrick PLC Cup Coffee Bean Contest Second Prize
+1970 Ward, Gonzalez and Nichols Cup Coffee Bean Contest Grand Prize
+1999 Brown-Price Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '196666603529');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('케이틀린 농장', '케이틀린', '2057 Timothy Knoll
+Stevenchester, OR 32202', 5000, '1991-02-23 00:00:00', '1990 Cantu, Hood and Johnson Cup Coffee Bean Contest Grand Prize
+1998 Tucker, Patterson and Barber Wins 2nd Place in Most Outstanding Coffee Bean category
+1985 Barnes PLC Cup Coffee Bean Contest Grand Prize', '하와이 코나', 1, '173523750753');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('빅터 농장', '빅터', '274 Thomas Pine
+Reevesview, NV 94463', 5700, '2009-08-19 00:00:00', '2020 Dodson-Williams Wins 1st Place in Most Outstanding Coffee Bean category
+1971 Kane-Humphrey Wins 1st Place in Most Outstanding Coffee Bean category
+2009 Hall, Merritt and Crawford Cup Coffee Bean Contest Third Prize
+2004 Rodriguez, Guerra and Rowe Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '180332859421');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('카티 농장', '카티', '3975 Ramirez Manors
+Port Ashleyport, WI 77040', 12800, '1977-08-18 00:00:00', '2011 Davies, Becker and Sosa Wins 2nd Place in Most Outstanding Coffee Bean category
+1987 Shelton Inc Wins 1st Place in Most Outstanding Coffee Bean category
+1975 Martinez, Stanley and Gill Cup Coffee Bean Contest First Prize', '자메이카 블루마운틴', 1, '141221714299');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('베서니 농장', '베서니', '9498 Smith Turnpike Apt. 061
+Blairton, VA 08030', 10500, '1990-06-10 00:00:00', '1972 Bennett, Gray and Vargas Cup Coffee Bean Contest Third Prize
+1987 Jarvis, Perez and Gomez Wins 1st Place in Most Outstanding Coffee Bean category
+1977 Chandler-Ramirez Cup Coffee Bean Contest Grand Prize', '예멘 애플 마티니', 1, '106160908348');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('멜리사 농장', '멜리사', '89845 Porter Meadow
+Schultzport, OR 39023', 10900, '2008-10-10 00:00:00', '2021 Baker-Singleton Cup Coffee Bean Contest Special Prize
+1984 Lee, Miller and Stewart Cup Coffee Bean Contest Second Prize
+1988 Alexander, Butler and Mccoy Wins 3rd Place in Most Outstanding Coffee Bean category
+2020 Dodson, Curtis and Meyers Wins 1st Place in Most Outstanding Coffee Bean category
+1996 Wolfe, Lopez and Freeman Cup Coffee Bean Contest Second Prize
+1971 Cook and Sons Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '118696683913');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('후안 농장', '후안', '885 John Inlet Suite 957
+North Scottfurt, OH 46477', 13700, '2006-11-22 00:00:00', '2004 Finley-Bailey Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 2, '173885379408');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('찰린 농장', '찰린', '61456 Kathleen Freeway Apt. 291
+Jenniferport, NC 15694', 4500, '2013-10-24 00:00:00', '1994 Blair, Williamson and Weaver Wins 1st Place in Most Outstanding Coffee Bean category
+2006 Wiley Ltd Wins 3rd Place in Most Outstanding Coffee Bean category
+1991 Turner Ltd Cup Coffee Bean Contest Special Prize', '자메이카 블루마운틴', 3, '102027685062');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제이스 농장', '제이스', '74871 Roberta Freeway Suite 411
+Isaacmouth, VI 83788', 5300, '2003-09-15 00:00:00', '1988 Lowe, Johnson and Gibson Cup Coffee Bean Contest Grand Prize
+1995 Hester Ltd Cup Coffee Bean Contest Special Prize
+2000 Jenkins LLC Wins 1st Place in Most Outstanding Coffee Bean category
+2011 Richards PLC Cup Coffee Bean Contest Grand Prize
+1979 Parker-Pacheco Wins 2nd Place in Most Outstanding Coffee Bean category
+2019 Willis Group Cup Coffee Bean Contest Third Prize', '예멘 모카 아이리시', 1, '142104243535');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('레오나르드 농장', '레오나르드', '0989 Olivia Forks
+North Heatherbury, FM 55404', 7000, '2021-04-03 00:00:00', '1984 Morse-Dorsey Cup Coffee Bean Contest First Prize
+1976 Kent-Price Cup Coffee Bean Contest Special Prize
+2012 Carter PLC Cup Coffee Bean Contest Grand Prize
+1980 Sharp-Martinez Cup Coffee Bean Contest Grand Prize
+1988 Page Group Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '189911894060');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('패트리시아 농장', '패트리시아', 'Unit 6597 Box 9956
+DPO AA 99756', 8300, '2019-08-24 00:00:00', '2014 Martin-Smith Cup Coffee Bean Contest First Prize', '파나마 게이샤', 1, '131799545408');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('사라 농장', '사라', '5616 Bonnie Forks
+Johnchester, FL 56278', 6400, '2001-10-22 00:00:00', '1973 White-Rodriguez Wins 1st Place in Most Outstanding Coffee Bean category
+2020 Silva Group Wins 1st Place in Most Outstanding Coffee Bean category
+1995 Casey-Miles Wins 1st Place in Most Outstanding Coffee Bean category
+1998 Floyd LLC Wins 3rd Place in Most Outstanding Coffee Bean category
+2000 Thompson-Wright Cup Coffee Bean Contest Second Prize
+2006 Adams-Scott Cup Coffee Bean Contest First Prize', '파나마 게이샤', 1, '127702858732');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('티나 농장', '티나', '361 Barnes Squares Suite 342
+Michaelmouth, WI 22012', 9400, '2019-05-06 00:00:00', '1974 Potter, Underwood and Flores Cup Coffee Bean Contest Special Prize
+2017 Gray, Donaldson and Bowman Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '113426187496');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('줄리 농장', '줄리', '8639 Hull Trafficway
+Jamiefurt, WV 57523', 13300, '1975-04-11 00:00:00', '2001 Foster-Williams Wins 2nd Place in Most Outstanding Coffee Bean category
+1996 Evans-Pearson Wins 3rd Place in Most Outstanding Coffee Bean category
+1983 Mendoza, Shelton and Roberson Cup Coffee Bean Contest Special Prize', '예멘 모카 아이리시', 1, '128731945348');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('헤더 농장', '헤더', '133 Perez Mountains
+New Rogerfort, AS 16959', 11100, '2018-01-03 00:00:00', '1976 Farley Inc Wins 2nd Place in Most Outstanding Coffee Bean category
+1988 Brennan-Long Cup Coffee Bean Contest Grand Prize
+2021 Snow-Lopez Wins 1st Place in Most Outstanding Coffee Bean category
+2010 Brown PLC Cup Coffee Bean Contest Grand Prize', '예멘 애플 마티니', 1, '128860769885');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('패트릭 농장', '패트릭', '5326 Morales Grove Apt. 310
+Kyleview, MH 04267', 6800, '2022-12-25 00:00:00', '2022 Johnson Group Cup Coffee Bean Contest Special Prize', '자메이카 블루마운틴', 1, '115384348765');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('타라 농장', '타라', '14758 Sharp Shore
+South Leslie, RI 89126', 5900, '2001-02-14 00:00:00', '1996 Mcgee, Gray and Arnold Wins 2nd Place in Most Outstanding Coffee Bean category
+2014 Hayden and Sons Cup Coffee Bean Contest Second Prize
+2013 Yates, Gilbert and Mueller Cup Coffee Bean Contest Third Prize
+2003 Lawrence Ltd Cup Coffee Bean Contest First Prize
+1973 Powell, Parker and Johnson Wins 3rd Place in Most Outstanding Coffee Bean category
+1972 Miller Inc Wins 1st Place in Most Outstanding Coffee Bean category
+1974 Davis LLC Cup Coffee Bean Contest Third Prize', '예멘 애플 마티니', 1, '185749842638');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('알리샤 농장', '알리샤', '5952 Taylor Place Suite 536
+New Christopherville, MN 50842', 14400, '2000-09-14 00:00:00', '2000 Carr, Mcintosh and Garcia Wins 2nd Place in Most Outstanding Coffee Bean category
+1994 Stout PLC Cup Coffee Bean Contest Grand Prize
+2019 Tate, Lee and Morris Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '102601652862');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('롤리 농장', '롤리', '728 Michael Station Suite 767
+Kevinside, RI 75480', 4700, '1981-06-22 00:00:00', '1970 Walter-Atkinson Wins 3rd Place in Most Outstanding Coffee Bean category
+1999 Stein Ltd Cup Coffee Bean Contest Second Prize
+1971 Jenkins, Carlson and Walsh Cup Coffee Bean Contest Special Prize', '하와이 코나', 2, '102598079339');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('폴 농장', '폴', '8830 Kim Mews
+Dominicstad, AK 71385', 14100, '2001-01-03 00:00:00', '1994 Garcia-Lucas Wins 1st Place in Most Outstanding Coffee Bean category
+1996 Glover Ltd Cup Coffee Bean Contest Grand Prize', '자메이카 블루마운틴', 2, '106828541376');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('토드 농장', '토드', '690 Smith Mission Apt. 592
+Riosburgh, NM 18219', 4400, '1980-09-12 00:00:00', '1976 Vaughn PLC Cup Coffee Bean Contest Third Prize
+2001 Ward, Singh and Howe Cup Coffee Bean Contest Third Prize', '예멘 모카 아이리시', 1, '134807610492');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('다니엘 농장', '다니엘', '683 Moon Extensions
+Stephensmouth, PR 78513', 7900, '1974-12-04 00:00:00', '2013 Bean, Cabrera and Sosa Cup Coffee Bean Contest Special Prize
+2014 Mcdonald Ltd Wins 2nd Place in Most Outstanding Coffee Bean category
+2002 Johnston, Chavez and Rivera Cup Coffee Bean Contest Second Prize
+2008 Hall-Fisher Cup Coffee Bean Contest First Prize
+1977 Cook PLC Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 2, '157322787504');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('마리아 농장', '마리아', '239 Carrie Square
+Garyton, AS 33491', 11100, '1996-05-03 00:00:00', '2012 Holland-Smith Cup Coffee Bean Contest Grand Prize
+1990 Sanchez LLC Cup Coffee Bean Contest Second Prize
+1986 Pace, Hall and Watson Wins 3rd Place in Most Outstanding Coffee Bean category
+1981 Lara-Brock Cup Coffee Bean Contest First Prize
+1979 Henry, Silva and Miller Wins 1st Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 2, '126560848904');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('미셸 농장', '미셸', '3813 Stout Dam Suite 529
+Carlmouth, VT 30973', 14800, '1995-04-09 00:00:00', '1974 Alvarez-Jarvis Wins 1st Place in Most Outstanding Coffee Bean category
+2013 Booth LLC Cup Coffee Bean Contest Grand Prize
+1997 Hawkins-Levy Wins 3rd Place in Most Outstanding Coffee Bean category
+1974 Ross-Meyer Cup Coffee Bean Contest Second Prize
+2022 Smith-Smith Wins 2nd Place in Most Outstanding Coffee Bean category
+2003 Williams, Harris and Jones Cup Coffee Bean Contest Second Prize', '예멘 모카 아이리시', 3, '186022173033');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('카렌 농장', '카렌', '0038 Mcdonald Forest
+West Kimberlytown, OH 53653', 4000, '1983-07-03 00:00:00', '1972 Valenzuela-Smith Wins 3rd Place in Most Outstanding Coffee Bean category
+2014 Everett, Andersen and Rice Cup Coffee Bean Contest Third Prize', '파나마 게이샤', 1, '140048778505');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('베티 농장', '베티', '374 Daniel Throughway Apt. 277
+Amberburgh, NH 05073', 5200, '2020-03-22 00:00:00', '1977 Ramirez, Moore and Summers Cup Coffee Bean Contest Grand Prize
+2001 Torres-Shelton Cup Coffee Bean Contest First Prize
+1976 Alvarado-Ross Wins 1st Place in Most Outstanding Coffee Bean category
+2006 Perez-Nguyen Cup Coffee Bean Contest Grand Prize
+1999 Gibbs-Ross Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '183839892366');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('디아나 농장', '디아나', '38870 William Union Apt. 766
+Raymondland, GA 55151', 14700, '1976-03-12 00:00:00', '2003 Washington-Powers Wins 1st Place in Most Outstanding Coffee Bean category
+1988 Decker, Collier and West Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 1, '155415478142');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('린드 농장', '린드', '30572 Harris Mall Suite 869
+Perezville, MS 93276', 14500, '1996-07-25 00:00:00', '1974 Thornton, Yates and Gardner Cup Coffee Bean Contest Special Prize', '하와이 코나', 1, '183090145062');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('밥 농장', '밥', '16733 Ferguson Rue
+Elizabethmouth, MA 19321', 4900, '2014-09-30 00:00:00', '2012 Greer-Cannon Wins 1st Place in Most Outstanding Coffee Bean category
+2013 Myers Ltd Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 1, '115006241072');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에이프릴 농장', '에이프릴', '428 Jeremy Tunnel
+Monroeland, MD 38897', 5300, '1988-01-04 00:00:00', '1999 Figueroa Inc Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 3, '185768415005');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제임스 농장', '제임스', '52179 Alyssa Passage
+New Shannon, AS 51817', 11600, '2022-08-05 00:00:00', '2000 Freeman, Schmidt and Mckinney Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 3, '154599875618');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('켈시 농장', '켈시', '7349 Ramsey Junctions
+East Mollyhaven, WA 72019', 6800, '2015-04-18 00:00:00', '1987 Sanchez, Hudson and Merritt Wins 3rd Place in Most Outstanding Coffee Bean category
+2004 Williamson, Mckenzie and Warner Wins 2nd Place in Most Outstanding Coffee Bean category
+1989 Hogan-Larsen Cup Coffee Bean Contest Grand Prize', '하와이 코나', 1, '155986417470');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제프리 농장', '제프리', '662 Anthony Isle Suite 549
+Johnsonborough, VI 45026', 10000, '2012-02-29 00:00:00', '1982 Martinez and Sons Wins 3rd Place in Most Outstanding Coffee Bean category
+1981 Fuentes-Mendez Cup Coffee Bean Contest Third Prize', '파나마 게이샤', 1, '151527808303');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('조제 농장', '조제', '478 Kari Loaf Apt. 585
+North Kellyside, VA 67029', 12800, '1999-04-27 00:00:00', '2010 Nicholson Inc Wins 1st Place in Most Outstanding Coffee Bean category
+1994 Romero LLC Cup Coffee Bean Contest Special Prize', '예멘 모카 아이리시', 2, '162779848799');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('조슈아 농장', '조슈아', '3424 Mitchell Lights Apt. 373
+Johnsonchester, MS 52341', 9600, '2008-11-16 00:00:00', '1984 Jacobs-Martin Cup Coffee Bean Contest Second Prize
+1980 Jimenez PLC Wins 1st Place in Most Outstanding Coffee Bean category
+2005 Mendez Group Cup Coffee Bean Contest Grand Prize
+2000 Moreno Inc Wins 2nd Place in Most Outstanding Coffee Bean category
+2003 Davis-Guerrero Wins 2nd Place in Most Outstanding Coffee Bean category
+1978 Anderson-Martin Cup Coffee Bean Contest Grand Prize
+2017 Butler, Barker and Short Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '159783632442');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('로버트 농장', '로버트', '271 Dunlap View Apt. 849
+Audreymouth, MT 31947', 7300, '1996-06-20 00:00:00', '1996 Lynch-Carrillo Cup Coffee Bean Contest Second Prize
+1983 Howard, Bradley and Johnson Cup Coffee Bean Contest Third Prize
+1982 Wilson-Martinez Cup Coffee Bean Contest Third Prize
+1981 Moreno, Lowe and Pena Wins 2nd Place in Most Outstanding Coffee Bean category
+2011 Johnson, Mccoy and Stone Wins 3rd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '164691575453');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제니퍼 농장', '제니퍼', '1027 Hunter Cliff Suite 362
+East Sarah, WY 00669', 5000, '2004-05-28 00:00:00', '2022 Tate, Smith and Young Wins 1st Place in Most Outstanding Coffee Bean category
+2021 Taylor, Rich and Bowers Cup Coffee Bean Contest Third Prize
+1971 Hernandez LLC Wins 1st Place in Most Outstanding Coffee Bean category
+2021 Huff-Gomez Wins 2nd Place in Most Outstanding Coffee Bean category
+2014 Walker-Chavez Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 2, '127414349450');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에블린 농장', '에블린', 'USS Miller
+FPO AE 50449', 11900, '1984-09-23 00:00:00', '2008 Richardson-Jones Cup Coffee Bean Contest Grand Prize
+2019 King, Schultz and Rodriguez Wins 3rd Place in Most Outstanding Coffee Bean category
+2002 Young, Wilson and Griffin Cup Coffee Bean Contest Grand Prize
+2006 Strickland Group Wins 2nd Place in Most Outstanding Coffee Bean category
+2018 Jones-Burns Cup Coffee Bean Contest Grand Prize', '하와이 코나', 1, '190418315870');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('니콜 농장', '니콜', '239 Kimberly Plains
+New Jeffreyshire, MH 04394', 8600, '2014-02-25 00:00:00', '1986 James, Moore and Whitaker Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '185830082457');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('킴벌리 농장', '킴벌리', '949 Smith Mountain
+Alexland, WI 42606', 14300, '1993-10-08 00:00:00', '2021 Lewis-Walker Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '180269205572');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('케이티 농장', '케이티', '9930 York Prairie
+Powersburgh, MN 27432', 11100, '2015-05-20 00:00:00', '1978 Manning, Jacobs and Woods Cup Coffee Bean Contest Third Prize', '예멘 애플 마티니', 1, '186638244999');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('안젤라 농장', '안젤라', '946 James Cliff Apt. 390
+Toddshire, NH 58488', 8100, '1999-10-20 00:00:00', '1975 Sutton, Cain and Stark Cup Coffee Bean Contest Third Prize
+2022 Williams-Greene Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '107179880334');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('파멜라 농장', '파멜라', '2898 Robert Place
+Anthonyport, AK 24375', 9200, '2019-08-07 00:00:00', '2009 Simpson, Payne and Anderson Wins 3rd Place in Most Outstanding Coffee Bean category
+2013 Castro, Chandler and Taylor Cup Coffee Bean Contest Grand Prize
+1995 Brown-Rivera Wins 2nd Place in Most Outstanding Coffee Bean category
+1981 Schneider Group Wins 2nd Place in Most Outstanding Coffee Bean category
+2004 Carlson and Sons Wins 1st Place in Most Outstanding Coffee Bean category
+2017 Hughes, Mahoney and Velez Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 2, '120418595583');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('엘리야 농장', '엘리야', '222 Carrie Bridge
+New Morganchester, MS 55463', 12400, '2001-11-29 00:00:00', '2019 Robertson Group Cup Coffee Bean Contest Second Prize
+2000 Foley-Griffith Cup Coffee Bean Contest Special Prize
+1990 Rivera-Decker Wins 1st Place in Most Outstanding Coffee Bean category
+1991 Clark, Mitchell and Gill Cup Coffee Bean Contest Special Prize', '예멘 애플 마티니', 2, '115948027460');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('윌리엄 농장', '윌리엄', '7379 Lopez Lock Apt. 249
+North George, DE 36541', 12500, '2019-07-22 00:00:00', '1981 Wall, Kelly and Chavez Wins 2nd Place in Most Outstanding Coffee Bean category
+1981 Jordan, Parrish and Moore Cup Coffee Bean Contest Second Prize
+2003 Campbell Inc Wins 2nd Place in Most Outstanding Coffee Bean category
+2017 Smith-Diaz Cup Coffee Bean Contest Grand Prize', '자메이카 블루마운틴', 1, '100141345041');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('케빈 농장', '케빈', '6852 Lisa Rue Apt. 120
+Sheenamouth, AK 64770', 6400, '2000-03-15 00:00:00', '1987 Singh-Moore Wins 1st Place in Most Outstanding Coffee Bean category
+1992 Ayers-Zamora Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 1, '138498399585');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('리사 농장', '리사', '3410 Jimenez Port
+Port Peterport, SD 39987', 13300, '2003-10-01 00:00:00', '2009 Nguyen, Franco and Baker Wins 2nd Place in Most Outstanding Coffee Bean category
+1975 Vargas-Nguyen Cup Coffee Bean Contest Grand Prize
+2002 Aguirre Group Cup Coffee Bean Contest First Prize
+2019 Moyer, George and York Cup Coffee Bean Contest First Prize
+2014 Garza, Cox and Sutton Wins 3rd Place in Most Outstanding Coffee Bean category
+1993 Jackson, Smith and Brown Cup Coffee Bean Contest Grand Prize', '파나마 게이샤', 1, '193921807268');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('브룩 농장', '브룩', '6759 Wilson Locks
+East Jeremyville, DE 45347', 5300, '1980-01-04 00:00:00', '1988 Robbins, Dominguez and Taylor Wins 2nd Place in Most Outstanding Coffee Bean category
+2005 Harper Ltd Cup Coffee Bean Contest Second Prize
+2020 Perkins and Sons Cup Coffee Bean Contest First Prize
+2007 Travis, Hernandez and Elliott Wins 3rd Place in Most Outstanding Coffee Bean category
+1980 Wilcox, Carter and Cook Cup Coffee Bean Contest Special Prize
+2020 Tate-Rhodes Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '140905939828');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('스티브 농장', '스티브', '354 Brown Gardens
+East Charles, TX 59368', 13900, '1992-04-01 00:00:00', '1998 Graham, Daniels and Cantrell Wins 1st Place in Most Outstanding Coffee Bean category
+2019 Mccoy and Sons Cup Coffee Bean Contest Grand Prize
+1982 Shaw, Bowman and Hodge Cup Coffee Bean Contest Grand Prize
+2013 Meyer, Mcgrath and Miller Wins 3rd Place in Most Outstanding Coffee Bean category
+1972 Fleming, Johnson and Richardson Wins 1st Place in Most Outstanding Coffee Bean category
+1982 Anderson LLC Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '112431492649');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('트레버 농장', '트레버', '3008 Sarah Fort
+Jacobland, ID 27387', 4200, '1989-10-14 00:00:00', '2002 Randolph Group Wins 3rd Place in Most Outstanding Coffee Bean category
+2002 Cole Ltd Cup Coffee Bean Contest First Prize
+1997 Neal-Black Wins 2nd Place in Most Outstanding Coffee Bean category
+2002 Scott-Brown Wins 2nd Place in Most Outstanding Coffee Bean category
+1981 Johnson, Jones and Gill Cup Coffee Bean Contest Grand Prize', '파나마 게이샤', 1, '108665652099');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에린 농장', '에린', '602 Karen Causeway Apt. 869
+New Sara, MT 17824', 6600, '2018-11-30 00:00:00', '2018 Hill-Rosales Cup Coffee Bean Contest Grand Prize
+1984 Brock-Moore Cup Coffee Bean Contest Second Prize
+1988 Tucker Ltd Wins 3rd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 3, '192058907890');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('토니아 농장', '토니아', '02911 Lane Motorway
+Housebury, IL 64896', 10500, '2021-05-03 00:00:00', '2007 Sanchez-Greer Wins 2nd Place in Most Outstanding Coffee Bean category
+2019 Nguyen, George and Lane Wins 3rd Place in Most Outstanding Coffee Bean category
+1986 Espinoza, Keller and Pierce Wins 2nd Place in Most Outstanding Coffee Bean category
+2006 Reynolds, Collins and Gonzalez Cup Coffee Bean Contest Grand Prize
+1981 Taylor LLC Cup Coffee Bean Contest Second Prize', '자메이카 블루마운틴', 2, '160472554443');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('린다 농장', '린다', 'Unit 8955 Box 9769
+DPO AE 39913', 11300, '1978-03-26 00:00:00', '2013 Blankenship-Hernandez Wins 1st Place in Most Outstanding Coffee Bean category
+2001 Alvarez LLC Cup Coffee Bean Contest First Prize
+2000 Bailey, Wilson and Black Cup Coffee Bean Contest Grand Prize
+1976 Anderson, Kirby and Payne Cup Coffee Bean Contest Grand Prize
+2000 Spence-Rosales Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '163574124743');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('앤드류 농장', '앤드류', '53881 Alan Mill Suite 798
+West Christianport, WV 32453', 5100, '2007-02-07 00:00:00', '2006 Wells, Mann and Rodriguez Wins 2nd Place in Most Outstanding Coffee Bean category
+1979 Martinez, Martinez and Butler Cup Coffee Bean Contest Special Prize
+1997 Villa and Sons Cup Coffee Bean Contest Special Prize
+1991 Fox Group Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '127391099238');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('로버타 농장', '로버타', '16144 Matthew Unions Apt. 487
+Lake Kimberly, AK 68079', 10200, '1979-10-21 00:00:00', '2017 Young Inc Cup Coffee Bean Contest Third Prize
+1987 Adams LLC Cup Coffee Bean Contest Second Prize
+1975 Price Inc Wins 1st Place in Most Outstanding Coffee Bean category
+1989 Conner, Elliott and Chase Wins 1st Place in Most Outstanding Coffee Bean category
+1988 Carr Inc Cup Coffee Bean Contest Special Prize', '자메이카 블루마운틴', 2, '175129359529');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제리 농장', '제리', '68428 Michael Groves
+East Thomas, MI 08102', 4200, '1974-08-22 00:00:00', '2013 Ramos-Robinson Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '103304643316');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제퍼리 농장', '제퍼리', '4571 Crystal Lock
+North Cameron, MN 56833', 11000, '1988-03-10 00:00:00', '1988 Juarez PLC Wins 1st Place in Most Outstanding Coffee Bean category
+2012 Lee-Bailey Wins 3rd Place in Most Outstanding Coffee Bean category
+1973 Downs Group Wins 2nd Place in Most Outstanding Coffee Bean category
+1995 Richards-Brown Cup Coffee Bean Contest Special Prize
+2009 Caldwell LLC Cup Coffee Bean Contest Special Prize', '자메이카 블루마운틴', 2, '165854832285');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('크리스티나 농장', '크리스티나', '87562 Mackenzie Estate
+Moranview, KS 16332', 6000, '2011-09-08 00:00:00', '2013 Peterson, Benson and Perkins Cup Coffee Bean Contest Special Prize', '자메이카 블루마운틴', 1, '119517780179');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('타냐 농장', '타냐', '8592 Tyler Court
+New Juanshire, PW 66449', 14500, '1983-09-12 00:00:00', '1991 Hill Inc Cup Coffee Bean Contest Grand Prize
+1994 Simmons LLC Wins 2nd Place in Most Outstanding Coffee Bean category
+2001 Brown and Sons Cup Coffee Bean Contest Grand Prize
+1993 Robinson, York and Bennett Wins 3rd Place in Most Outstanding Coffee Bean category
+1992 Fernandez LLC Wins 2nd Place in Most Outstanding Coffee Bean category
+2011 Goodwin, Blankenship and Howard Wins 2nd Place in Most Outstanding Coffee Bean category
+2021 Casey-Jones Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 3, '112718365010');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('크로빈 농장', '크로빈', '24311 Patrick Fords Apt. 495
+West Angelashire, MA 40967', 14700, '1993-02-11 00:00:00', '2003 Smith-Stewart Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 2, '137869897031');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('크레이그 농장', '크레이그', '41777 Michelle Plains
+Tiffanymouth, TX 42370', 6400, '1996-09-17 00:00:00', '1986 Contreras Group Wins 1st Place in Most Outstanding Coffee Bean category
+2003 Frank-Vasquez Cup Coffee Bean Contest First Prize', '하와이 코나', 1, '188777941282');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에밀리아 농장', '에밀리아', '82084 Manuel Court Apt. 826
+West Dana, WV 70663', 13900, '1981-02-24 00:00:00', '2018 Ponce, Brown and Lewis Cup Coffee Bean Contest Third Prize
+2008 Gutierrez Group Wins 3rd Place in Most Outstanding Coffee Bean category
+1987 Mendoza Ltd Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '162323184138');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('데일리 농장', '데일리', '76753 Kelli Freeway
+East Dustinhaven, NY 00900', 13900, '1996-07-10 00:00:00', '2020 Davis, Cook and Chapman Cup Coffee Bean Contest Grand Prize
+2000 Jones Ltd Cup Coffee Bean Contest Second Prize', '예멘 애플 마티니', 1, '154935748642');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('스테파니 농장', '스테파니', '664 Tapia Run Suite 563
+Santoschester, MI 65878', 8200, '1981-12-22 00:00:00', '1997 Barnes, Nelson and Patel Cup Coffee Bean Contest Third Prize', '예멘 애플 마티니', 1, '180113007790');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('데이비드 농장', '데이비드', '03501 Holden Squares
+Andrewbury, CA 82786', 13300, '1998-04-13 00:00:00', '2021 Ramos, Carter and Olsen Cup Coffee Bean Contest First Prize
+1981 Wright-Walker Wins 3rd Place in Most Outstanding Coffee Bean category
+1986 White-Martin Wins 1st Place in Most Outstanding Coffee Bean category
+1973 Greene and Sons Wins 1st Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '188164346702');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('크레이머 농장', '크레이머', 'Unit 7955 Box 0199
+DPO AP 22103', 7700, '1996-12-15 00:00:00', '2014 Clark-Hendrix Cup Coffee Bean Contest Third Prize
+1991 Romero and Sons Cup Coffee Bean Contest Third Prize
+1973 Hatfield-Garcia Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 2, '131764238312');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('샬롯 농장', '샬롯', '3049 Keller Springs
+South Katelyn, CO 01977', 5500, '1994-12-31 00:00:00', '2008 Perez Inc Cup Coffee Bean Contest Second Prize
+1984 Krause and Sons Wins 3rd Place in Most Outstanding Coffee Bean category
+2005 Gaines LLC Wins 3rd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 2, '182283623203');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('스미스 농장', '스미스', '466 Love Square
+West Ruth, CT 76484', 14600, '2010-10-03 00:00:00', '2001 Bowers PLC Wins 2nd Place in Most Outstanding Coffee Bean category', '하와이 코나', 2, '127431086834');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('완다 농장', '완다', '92725 David Ports Apt. 063
+Willisbury, FM 16274', 14500, '1977-03-22 00:00:00', '2015 Sullivan PLC Cup Coffee Bean Contest Grand Prize
+1975 Nguyen-Martinez Wins 1st Place in Most Outstanding Coffee Bean category
+2003 Michael and Sons Wins 3rd Place in Most Outstanding Coffee Bean category
+2001 Barnes-Stewart Wins 2nd Place in Most Outstanding Coffee Bean category
+2001 Jones-Jones Cup Coffee Bean Contest Grand Prize
+1979 Myers-Stout Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '199362710043');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('브렌다 농장', '브렌다', '31490 Jennifer Fords Apt. 178
+Cardenasmouth, LA 91259', 13000, '1986-12-24 00:00:00', '2013 Smith, Murray and Stewart Wins 2nd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '187728105868');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('케릴 농장', '케릴', '1071 Pamela Way Suite 290
+Port Felicia, NM 52776', 7400, '2010-07-24 00:00:00', '2000 Garcia-Benton Wins 3rd Place in Most Outstanding Coffee Bean category
+1974 Reese-Wells Cup Coffee Bean Contest First Prize
+1975 Hall Ltd Cup Coffee Bean Contest Second Prize', '하와이 코나', 2, '148306609740');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('모니카 농장', '모니카', '960 Alyssa Unions
+Port Lauraside, PR 61531', 14200, '1996-06-13 00:00:00', '1999 Johnson-Mcgee Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 1, '137892737659');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('베를린 농장', '베를린', '9155 April Fork Suite 176
+East Jenniferland, VI 10770', 9600, '1990-10-02 00:00:00', '2019 Bryant-Goodwin Cup Coffee Bean Contest First Prize
+1983 Beasley and Sons Cup Coffee Bean Contest Third Prize
+2004 Bruce, Potter and Monroe Wins 3rd Place in Most Outstanding Coffee Bean category
+2013 Hudson, Gilbert and Johnson Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '185993630094');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('미숀 농장', '미숀', '83534 Collins Mill
+Port Krista, KS 93009', 8700, '2019-12-23 00:00:00', '2000 Wright-Maldonado Wins 2nd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 1, '180863379759');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('잭 농장', '잭', '860 Christensen Oval Apt. 288
+New Donaldside, MT 34647', 13400, '2004-08-21 00:00:00', '2015 Lewis, Taylor and Bennett Cup Coffee Bean Contest First Prize
+1995 Meyer-Shah Cup Coffee Bean Contest First Prize
+1973 Cruz, Barker and Graham Cup Coffee Bean Contest Grand Prize
+1983 Thompson, Murray and Johnson Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '108247547788');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('모랄레스 농장', '모랄레스', '598 John Spring
+Port Feliciafurt, IL 45686', 4200, '1987-10-25 00:00:00', '1985 Clark-Villegas Wins 2nd Place in Most Outstanding Coffee Bean category
+2019 Weaver, Newton and Kim Wins 2nd Place in Most Outstanding Coffee Bean category
+2010 Owens, Palmer and Merritt Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 1, '104658117679');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('빌리 농장', '빌리', '4765 Jessica Dam Suite 218
+North Kenneth, ME 04694', 13700, '2003-12-08 00:00:00', '2015 Roberts-Baker Wins 1st Place in Most Outstanding Coffee Bean category
+1975 Reid-Hutchinson Wins 1st Place in Most Outstanding Coffee Bean category
+1981 Prince and Sons Cup Coffee Bean Contest First Prize
+1986 Saunders PLC Wins 1st Place in Most Outstanding Coffee Bean category
+2003 Peterson-Huffman Cup Coffee Bean Contest Special Prize', '예멘 모카 아이리시', 1, '171801589068');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('루 농장', '루', '231 Michael Knoll
+West Scottberg, VI 43305', 8400, '2008-01-25 00:00:00', '2012 Brooks, Sampson and Castillo Cup Coffee Bean Contest First Prize
+1970 Lam-Williamson Wins 2nd Place in Most Outstanding Coffee Bean category
+1985 Burns PLC Cup Coffee Bean Contest Grand Prize
+2008 Alvarez Ltd Wins 1st Place in Most Outstanding Coffee Bean category
+2015 Smith PLC Cup Coffee Bean Contest Third Prize
+2009 Nelson PLC Wins 2nd Place in Most Outstanding Coffee Bean category', '예멘 모카 아이리시', 1, '185788619624');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('토빈 농장', '토빈', 'USNS Villanueva
+FPO AP 52688', 13400, '2000-09-02 00:00:00', '1997 Hernandez-Mcclain Wins 3rd Place in Most Outstanding Coffee Bean category
+1971 Wong-Stafford Cup Coffee Bean Contest Second Prize
+2020 Hodges, Johnson and Floyd Cup Coffee Bean Contest Special Prize
+2003 Huynh, Fields and Howell Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '166064947421');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('한나 농장', '한나', '6485 Rice Islands
+Housefurt, NE 33702', 5100, '1997-05-23 00:00:00', '2001 Clark, Thomas and Holder Wins 3rd Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '148405223535');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('트로이 농장', '트로이', 'Unit 3132 Box 1846
+DPO AE 70322', 7000, '1995-11-03 00:00:00', '2017 Zhang-Pollard Wins 1st Place in Most Outstanding Coffee Bean category
+2006 Hicks, Martinez and Choi Cup Coffee Bean Contest Grand Prize
+2005 Hawkins Ltd Cup Coffee Bean Contest First Prize
+1986 Ponce, Burgess and Perry Wins 1st Place in Most Outstanding Coffee Bean category
+1973 Yu, Thomas and Hubbard Wins 1st Place in Most Outstanding Coffee Bean category
+1971 Shaffer-Gonzalez Wins 1st Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 3, '112405211111');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('트레이시 농장', '트레이시', '35941 Lisa Square
+Ruthside, SC 26412', 13500, '2013-06-04 00:00:00', '1990 Castillo-Berger Wins 1st Place in Most Outstanding Coffee Bean category
+1971 Hamilton-Fitzgerald Cup Coffee Bean Contest Grand Prize
+2010 Clark, Ochoa and Crane Wins 2nd Place in Most Outstanding Coffee Bean category
+2012 Newman, Wade and Johnson Cup Coffee Bean Contest Special Prize', '파나마 게이샤', 1, '124573635050');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('캐리 농장', '캐리', 'PSC 3324, Box 7269
+APO AP 36079', 9700, '1997-06-16 00:00:00', '1989 Keller, Pena and Davis Cup Coffee Bean Contest Third Prize
+2000 Chan-Sampson Cup Coffee Bean Contest First Prize
+1991 Williams, Graham and Crawford Cup Coffee Bean Contest Grand Prize
+1982 Holloway-Harmon Wins 2nd Place in Most Outstanding Coffee Bean category
+1973 Christensen Ltd Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '191636789685');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에릭 농장', '에릭', '5891 Barajas Lights Suite 884
+Ibarraport, KS 46235', 12200, '1993-08-25 00:00:00', '1979 Oneal Ltd Cup Coffee Bean Contest First Prize', '파나마 게이샤', 1, '162804651309');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제이콥 농장', '제이콥', '1838 Rivers Estates Apt. 270
+Leeport, CT 26267', 8400, '2015-03-29 00:00:00', '1970 Thompson Group Cup Coffee Bean Contest Special Prize
+1983 Howell, Martin and Crawford Wins 3rd Place in Most Outstanding Coffee Bean category
+1978 Wilcox-Gross Cup Coffee Bean Contest Special Prize
+1972 Rivera, Brown and Clark Cup Coffee Bean Contest Second Prize', '하와이 코나', 1, '172487360302');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제이슨 농장', '제이슨', '48440 Robert Rest
+North Sara, NE 70098', 9800, '1990-07-07 00:00:00', '1990 Mitchell, Riley and Hensley Cup Coffee Bean Contest Special Prize
+1977 Collins, Winters and Klein Wins 1st Place in Most Outstanding Coffee Bean category
+2008 Stafford, Wolfe and Schmidt Wins 1st Place in Most Outstanding Coffee Bean category
+1972 Guerrero, Blankenship and Hopkins Cup Coffee Bean Contest Special Prize
+2015 Mcneil-Thompson Wins 3rd Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 1, '143104076011');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('마이클 농장', '마이클', '856 Tiffany Course
+Port Matthew, GA 63628', 9200, '1996-10-28 00:00:00', '2006 Rhodes Group Wins 1st Place in Most Outstanding Coffee Bean category', '예멘 애플 마티니', 2, '173210521776');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제레미 농장', '제레미', '2286 Sandoval Estates
+North Tina, SC 43158', 5900, '1991-02-21 00:00:00', '1984 Stout-Bailey Cup Coffee Bean Contest First Prize
+2004 Cox Inc Wins 3rd Place in Most Outstanding Coffee Bean category
+1978 Berg LLC Cup Coffee Bean Contest Third Prize', '예멘 모카 아이리시', 2, '193154390129');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('에반스 농장', '에반스', '253 White Fort
+Port Michelleberg, SD 39202', 8600, '1977-12-02 00:00:00', '2004 Mata PLC Wins 2nd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '100879186542');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('톰 농장', '톰', '46711 Tabitha Light Apt. 860
+North Chadport, FM 91148', 13800, '1976-02-08 00:00:00', '2011 Medina, Ellison and Mullen Wins 3rd Place in Most Outstanding Coffee Bean category
+1979 Young, Jones and Farley Cup Coffee Bean Contest Second Prize', '파나마 게이샤', 2, '164639589943');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('션 농장', '션', '718 Gallegos Village Suite 353
+Heathbury, MD 67158', 13500, '1986-04-05 00:00:00', '1970 Mathews, Williams and Hernandez Cup Coffee Bean Contest Special Prize
+2018 Nixon Ltd Cup Coffee Bean Contest Grand Prize
+1997 Smith, Gross and Peters Wins 2nd Place in Most Outstanding Coffee Bean category
+2021 Lewis Group Wins 1st Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '115558399407');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('수산 농장', '수산', '679 Gallagher Hill Apt. 385
+New Stephanie, IL 36885', 12300, '2017-09-18 00:00:00', '2001 Jones and Sons Cup Coffee Bean Contest Grand Prize
+1982 Martinez and Sons Cup Coffee Bean Contest Third Prize
+1976 Estrada Inc Wins 1st Place in Most Outstanding Coffee Bean category', '하와이 코나', 1, '154694320567');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('랜디 농장', '랜디', '329 Cathy Key
+Jasonshire, NJ 53572', 10100, '1993-02-13 00:00:00', '2003 Lewis-Potter Wins 1st Place in Most Outstanding Coffee Bean category
+2016 Barnes-Bryant Cup Coffee Bean Contest Grand Prize
+1999 Nichols Group Wins 3rd Place in Most Outstanding Coffee Bean category
+2011 Hopkins-Stokes Cup Coffee Bean Contest Grand Prize', '하와이 코나', 1, '161941551321');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('필립 농장', '필립', 'PSC 3313, Box 3033
+APO AP 45346', 11900, '1992-10-11 00:00:00', '1996 Irwin-Boyer Wins 2nd Place in Most Outstanding Coffee Bean category
+2013 Fox-Williams Cup Coffee Bean Contest First Prize
+2013 Lindsey, Lopez and Contreras Wins 2nd Place in Most Outstanding Coffee Bean category', '파나마 게이샤', 3, '127931556335');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('제니스 농장', '제니스', '2696 Samuel Gardens
+Harringtontown, MI 43452', 7300, '1996-11-08 00:00:00', '2007 Torres, Mccoy and Meyer Wins 2nd Place in Most Outstanding Coffee Bean category
+1984 Weaver, Moore and Brown Cup Coffee Bean Contest Special Prize
+2022 Thompson Ltd Wins 1st Place in Most Outstanding Coffee Bean category
+1997 Wise Group Cup Coffee Bean Contest Third Prize
+2018 Griffin, Foster and Hernandez Cup Coffee Bean Contest Third Prize
+2006 Quinn, Rangel and Jones Wins 3rd Place in Most Outstanding Coffee Bean category', '자메이카 블루마운틴', 1, '111658429965');
+INSERT INTO farm_tb (farm_name, farm_ceo_name, farm_address, farm_scale, farm_started_time, award_history, farm_bean_name, farm_bean_grade, farm_bank_account_num) VALUES ('마틴 농장', '마틴', '7295 Sean Extension Apt. 930
+Lake Heather, FL 31655', 5000, '1988-07-20 00:00:00', '1980 Castaneda Ltd Wins 1st Place in Most Outstanding Coffee Bean category
+1988 Haney-Small Cup Coffee Bean Contest Special Prize', '예멘 모카 아이리시', 1, '127189311824');
